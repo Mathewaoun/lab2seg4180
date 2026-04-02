@@ -1,0 +1,6 @@
+{
+  "num_test_samples": 1,
+  "dice_score": 0.014119691549754319,
+  "iou": 0.0071100415772576,
+  "weights": "artifacts_final/checkpoints/best_model.pt"
+}

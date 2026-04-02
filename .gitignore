@@ -1,0 +1,13 @@
+.DS_Store
+.env
+.venv/
+.pytest_cache/
+__pycache__/
+*.pyc
+artifacts/*
+!artifacts/.gitkeep
+artifacts_final/checkpoints/
+data/processed/
+data/processed_final/
+data/raw/
+sam_vit_*.pth

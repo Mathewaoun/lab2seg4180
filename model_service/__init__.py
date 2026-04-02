@@ -1,0 +1,1 @@
+"""House segmentation service package."""

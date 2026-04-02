@@ -1,0 +1,5 @@
+huggingface_hub
+opencv-python
+scipy
+torchvision
+git+https://github.com/facebookresearch/segment-anything.git
